@@ -71,8 +71,8 @@ surveys/ {surveyId}/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/alnazareth/survey-app-flutter.git
-cd survey-app-flutter
+git clone https://github.com/alnazareth/survey-app-flutter-assignmentdojo.git
+cd survey-app-flutter-assignmentdojo
 ```
 
 2. **Install dependencies**
